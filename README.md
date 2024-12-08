@@ -1,2 +1,1 @@
-#alx_be_shell
-#just getting started
+its not empty
